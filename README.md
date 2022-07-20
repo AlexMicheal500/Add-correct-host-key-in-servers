@@ -1,0 +1,2 @@
+# Add-correct-host-key-in-servers
+When try to login to remote server from my local machine using terminal I get the following message Please contact your system administrator. Add correct host key in /root/.ssh/known_hosts to get rid of this message. Offending ECDSA key in /root/.ssh/known_hosts:5 remove with: ssh-keygen -f “/root/.ssh/known_hosts” -R 45.55.154.139 Password authentication is disabled to avoid man-in-the-middle attacks. Keyboard-interactive authentication is disabled to avoid man-in-the-middle attacks
